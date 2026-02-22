@@ -1,0 +1,23 @@
+ Melee
+ Subclasses
+   Assassination
+  49961 - Blink Strike -Damaging Shadowstep, maybe if Assassination isn't stealth-based
+  52633 - Void Strike - Basic attack, ignores armor. Could be reworked into a cooldown
+  
+
+
+   Defender
+  4111 - Tough Shell - Armor Increase Proc
+  3574 - Skin of Rock - on use Armor increase
+  
+
+   Juggernaut
+  4154 - Ferocity -  Haste increase + increased damage taken
+  6544 - Heroic Leap
+  60870 - Bludgeoning Strike -Instant physical strike with a 50% attack/cast speed reduction
+  
+
+   Knight -- melee healer for others
+  10618 - Elemental Protection - Magic Absorb Cooldown
+  31863 - Shield Charge - Charge with Shield requirement, dealing minor holy damage and a 3sec stun
+  

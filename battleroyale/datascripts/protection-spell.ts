@@ -1,0 +1,10 @@
+import { std } from "wow/wotlk";
+std.Spells.create('battleroyale', 'protection-spell', 642)
+.Name.enGB.set('Starter Protection')
+.Description.enGB.set('Utilized to protect low level characters.')
+.AuraDescription.enGB.set('Utilized to protect low level characters.')
+.Duration.setSimple(600000)
+.Effects.clear(0)
+.Effects.clear(2)
+.Tags.addUnique('battleroyale', 'starter-protection')
+.Visual.getRefCopy().clear()

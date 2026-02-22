@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: classes-mod
+## Version: 1.0
+## Notes: Something
+## Author: Someone
